@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5150376
+  lightness: 0.6654136
+  brandStrength: 0.9081632
+  brandColors:
+    - '#FFFFFF'
+    - '#260F3B'
+    - '#E67026'
+    - '#BABABA'
+    - '#6C5C7B'
+  rhythmicContrast: 1
+typography_spectrum: 0.716971
+name: Phoenix Collective
